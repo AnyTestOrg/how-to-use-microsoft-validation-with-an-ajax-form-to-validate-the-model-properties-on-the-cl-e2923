@@ -1,6 +1,6 @@
 # How to use Microsoft validation with an AJAX form to validate the Model properties on the client side
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2923/)**
+**[[Run Online]](https://codecentral.devexpress.com/e2923)**
 <!-- run online end -->
 
 
